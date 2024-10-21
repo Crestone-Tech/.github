@@ -1,3 +1,3 @@
-# .github
+# Crestone Technology
 
-Many, many frogs
+Crestone Technology is a team of developers working together on projects we care about
