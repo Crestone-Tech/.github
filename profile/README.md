@@ -1,3 +1,3 @@
 # Crestone Technology
 
-Crestone Technology is a team of developers working together on projects we care about
+Crestone Technology is a team of developers working on open-source projects together. Want to join us?
